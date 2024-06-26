@@ -1,0 +1,157 @@
+ELLA WHITE
+Senior Java Developer | Tech Solution Design | Software Lifecycle Management
+
+³ ¦1-(234)-555-1234
+9 Denver, Colorado
+SUMMARY
+@ help@enhancv.com
+q linfiedin.com
+
+
+PROJECTS          
+
+Dedicated Java developer with over 5 years of experience in crafting cutting-edge software solutions. Adept at Spring Boot, clean code, and collaborative team success. Acknowledged for contributing significantly to project successes.
+
+EXPERIENCE
+Senior Java Developer
+Tech Innovate LLC
+06/2018 - Present   Denver, Colorado
+•  Led a team of 10 developers in creating a scalable financial application, reducing processing time by 20%
+•  Implemented a suite of robust tests for a new SaaS solution, improving system reliability by 15%
+•  Optimized existing codebase, resulting in a 10% increase in application performance for key clients
+•  Developed and maintained documentation for over 30 APIs, ensuring compliance with industry standards
+•  Achieved a record of zero down-time for consecutive 12 months across all managed projects
+•  Designed and deployed a new feature module that boosted customer engagement by 25%
+Java Developer
+Global Code Factory
+02/2016 - 05/2018   Denver, Colorado
+•  Played a pivotal role in the integration of a microservices architecture, enhancing system modularity
+•  Collaborated with international teams to deliver a market-responsive supply chain management tool
+•  Streamlined database integration processes, shortening development cycles by 30%
+•  Authored technical documentation that improved cross-functional team understanding by 40%
+• Mentored 3 junior developers, improving team productivity by 20%
+Associate Java Developer
+InnoSoft Dynamics
+08/2013 - 01/2016   Denver, Colorado
+•  Contributed to the creation of an award-winning travel application used by 500k+ users
+• Streamlined the CI/CD process, reducing build times by approximately 25%
+•  Participated in weekly Agile ceremonies to keep the project aligned with client needs
+•  Assisted in the migration of a legacy system to a modern Java environment
+Open-source Java e-commerce framework
+Contributed to a Java-based e-commerce solution, optimizing checkout flow and payment processing for small retailers. See more at github.com/ellawhite/ecommerce-framework
+Community-driven event coordination API
+Created an API to simplify event planning for community organizations, with a 15% increase in user engagement year-on-year. Check the repository at github.com/ellawhite/event-api
+
+ACHIEVEMENTS        
+Ø Implemented High-Performance Financial Application
+Spearheaded the development of a high- performance financial application, leading to a 20% improvement in transaction processing speed.
+
+• Maintained 100% Uptime Record
+Championed backend stability initiatives, maintaining a 100% uptime record for managed services over a 12-month period.
+
+ Supervised Successful Database Integration
+Successfully supervised a critical database integration that shortened the development cycle for new software features by 30%.
+
+A Enhanced Product Features Led to Increase in Engagement
+Developed key product features that resulted in a significant boost in customer engagement by 25%.
+
+SKILLS            
+Java   Spring Boot   Git Software Development Lifecycle
+
+EDUCATION
+Master of Science in Computer Science
+University of Colorado Boulder
+01/2013 - 01/2015   Boulder, Colorado
+Bachelor of Science in Software Engineering
+Colorado State University
+01/2009 - 01/2013   Fort Collins, Colorado
+
+
+
+
+
+www.enhancv.com
+Continuous Integration Test-Driven Development
+
+
+
+
+
+
+
+
+
+Powered by  
+
+LANGUAGES                 
+
+English
+Native
+Spanish
+Intermediate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.enhancv.com
+
+
+Powered by  
